@@ -8,7 +8,7 @@
 
 ## :fire:项目介绍
 
-1. **:collision:Project1：**在第一个项目中，我主要是进行比较了GAN模型和Diffusion模型进行相关的人脸生成任务。而在GAN网络中，我主要是采用一种基于无监督控制生成图像语义特征的方式，参考了论文《**EigenGAN: Layer-Wise Eigen-Learning for GANs**》，其对应的开源代码是 https://github.com/LynnHo/EigenGAN-Tensorflow。原论文中主要是利用Tensorflow框架进行编写，我主要采用的是**pytorch**的框架进行编写相关代码，我本次采用的数据集是[CelebA](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)数据集。在源代码中，我主要是**jupyter**形式进行编写，里面已经有十分详细的说明文档和步骤，读者可以直接去查看。如果读者需要相应的权重文件，可以发邮件向我咨询。
+1. **:collision:Project1：**在第一个项目中，我主要是进行比较了GAN模型和Diffusion模型进行相关的人脸生成任务。而在GAN网络中，我主要是采用一种基于无监督控制生成图像语义特征的方式，参考了论文《**EigenGAN: Layer-Wise Eigen-Learning for GANs**》，该论文有对应的开源代码。原论文中主要是利用**Tensorflow**框架进行编写，我主要采用的是**pytorch**的框架进行编写相关代码，我本次采用的数据集是[CelebA](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)数据集。在源代码中，我主要是**jupyter**形式进行编写，里面已经有十分详细的说明文档和步骤，读者可以直接去查看。如果读者需要相应的权重文件，可以发邮件向我咨询。
 2. **:collision:Project2：**在第二个项目中，我主要是进行开发一款名为"妙手回春”的医疗类产品，旨在借助大模型的强大能力优化教学过程，提升医疗诊断能力。在本项目中，我主要是基于文心一言的大模型，实现了一个简易的**Agent**，从而能够去通过药盒的信息进行提供对应的药物说明书。而对于RAG技术方面，我主要是收集了相关医疗的文件（.pdf格式），通过**分词、词嵌入**等操作，最终存入到**向量数据库**中（我采用的是**Chroma**向量数据库，比较轻量方便），详细可看代码。并且在最后，我采用了**gradio**库，进行相关的可视化操作。在该源代码中，我主要是**jupyter**形式进行编写，里面已经有十分详细的说明文档和步骤，并且对需求分析有详细的流程图。读者可以直接去查看。
 
 ## :muscle:相关总结
