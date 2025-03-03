@@ -15,3 +15,6 @@
 
 希望本项目可以对你们起到一点启发和帮助吧。同样想说的是，如果你曾也跟我一样的遭遇，请不要气馁，既然你的实力已经被大家认可，大概率也就是运气原因罢了。**人生就是一个慢慢接受自己的过程，既然有如此实力，未来总有我们发光发热的时刻，是金子总会发光的！**:star2::star2:
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Devin100086/2025-ZJUSE-SummerCamp-AI-Camp&type=Date)](https://star-history.com/#Devin100086/2025-ZJUSE-SummerCamp-AI-Camp&Date)
